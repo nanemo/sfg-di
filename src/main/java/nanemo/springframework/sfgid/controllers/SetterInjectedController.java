@@ -1,6 +1,6 @@
-package guru.springframework.sfgid.controllers;
+package nanemo.springframework.sfgid.controllers;
 
-import guru.springframework.sfgid.services.GreetingService;
+import nanemo.springframework.sfgid.services.GreetingService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Controller;

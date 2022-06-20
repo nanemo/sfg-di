@@ -1,10 +1,9 @@
-package guru.springframework.sfgid;
+package nanemo.springframework.sfgid;
 
-import guru.springframework.sfgid.controllers.ConstructorInjectedController;
-import guru.springframework.sfgid.controllers.MyController;
-import guru.springframework.sfgid.controllers.PropertyInjectedController;
-import guru.springframework.sfgid.controllers.SetterInjectedController;
-import guru.springframework.sfgid.services.PrimaryGreetingService;
+import nanemo.springframework.sfgid.controllers.ConstructorInjectedController;
+import nanemo.springframework.sfgid.controllers.MyController;
+import nanemo.springframework.sfgid.controllers.PropertyInjectedController;
+import nanemo.springframework.sfgid.controllers.SetterInjectedController;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;

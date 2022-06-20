@@ -1,6 +1,6 @@
-package guru.springframework.sfgid.controllers;
+package nanemo.springframework.sfgid.controllers;
 
-import guru.springframework.sfgid.services.ConstructorGreetingService;
+import nanemo.springframework.sfgid.services.ConstructorGreetingService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

@@ -1,4 +1,4 @@
-package guru.springframework.sfgid.services;
+package nanemo.springframework.sfgid.services;
 
 import org.springframework.stereotype.Service;
 
